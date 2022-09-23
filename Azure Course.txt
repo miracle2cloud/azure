@@ -1,0 +1,108 @@
+Microsoft Azure
+
+What you will learn:
+How to manage Azure identities and governance
+How to implement and manage Azure Storage
+How to deploy and manage Azure compute resources
+How to configure and manage Azure virtual networking
+How to monitor and back up Azure resources
+
+
+1) Identities and Governance
+	Manage Azure Active Directory objects
+	Manage role-based access control (RBAC)
+	Manage subscriptions and governance
+
+2) Implement and Manage Storage
+	Manage storage accounts
+	Configure Azure Files and Azure Blob storage
+	Manage data in Azure Storage
+
+3) Deploy and Manage Azure Compute Resources
+	Create and configure VMs
+	Configure VMs for high availability and scalability
+	Automate deployment and configuration of VMs
+	Create and configure containers
+	Create and configure Web Apps
+
+4) Configure and Manage Vitual Networking
+	Implement and manage virtual networking
+	Configure name resolution
+	Secure access to virtual networks
+	Configure load balancing
+	Monitor and troubleshoot virtual networking
+	Integrate on-premises networks with Azure Virtual Networks
+
+5) Monitor and Back Up Azure Resources
+	Monitor resources with Azure Monitor
+	Implement backup and recovery
+
+Topics:
+	Identity
+	Governance and Compliance
+	Azure Administration
+	Virtual Networking
+	Network Connectivity
+	Network Traffic Management
+	Azure Storage
+	Azure Virtual Machines
+	Serverless Computing
+	Data Protection
+	Monitoring
+
+Manage subscriptions, accounts, Azure policies, and Role-Based Access Control
+Implement and manage Azure storage
+Deploy, manage and scale Azure virtual machines
+Configure and manage Azure virtual networks
+Configure and manage Traffic Mangement
+Manage and Secure identities with Azure Active Directory and users and groups
+Administer Azure using the Resource Manager, Azure portal, Cloud Shell, Azure PowerShell, CLI, and ARM templates.
+Configure virtual networks including planning, IP addressing, Azure DNS, Network Security Groups, and Azure Firewall.
+Configure intersite connectivity solutions like VNet Peering, virtual network gateways, and Site-to-Site VPN connections.
+Manage network traffic using network routing and service endpoints, Azure load balancer, and Azure Application Gateway.
+Implement, manage and secure Azure storage accounts, blob storage, and Azure files with File Sync.
+Administer Azure App Service, Azure Container Instances, and Kubernetes.
+Backup files, folders, and virtual machines.
+Monitor the Azure infrastructure with Azure Monitor, Azure alerts, Log Analytics, and Network Watcher.
+
+
+What you'll learn
+Azure Resource Manager
+Azure Cloud Shell
+Azure PowerShell
+Availability Sets and Zones
+Create Windows Virtual Machines
+Create Linux Virtual Machines
+Deploy Virtual Machine Extensions
+Virtual Machine Scale Sets
+Azure Storage
+Blob Storage
+File Storage
+File Snapshots
+Azure DNS
+Service EndPoints
+Virtual Networks (vNets)
+Network Security Groups
+ExpressRoute
+vNet Peering
+vNet-to-vNet Connectivity
+Azure Load Balancer
+Azure Traffic Manager
+Azure Alerts
+Azure Activity Logs
+Network Watcher
+Azure Service Health
+Azure Backup
+Azure Site Recovery
+Zone Replication
+Azure Active Directory
+Azure AD Connect
+Azure AD Editions
+Multi-Factor Authentication
+Hybrid Joined Devices
+Azure Identity Protection (AIP)
+Azure Management Groups
+Azure Subscriptions
+Content Delivery Networks (CDN)
+DataBox
+Azure Firewall
